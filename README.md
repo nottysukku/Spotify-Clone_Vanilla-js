@@ -13,7 +13,6 @@ This is a simple music player built using HTML, CSS, and basic JavaScript. It pr
 - Album display
 - Responsiveness for mobile devices
 
-```
 ## How to Use
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
